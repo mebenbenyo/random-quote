@@ -1,9 +1,8 @@
-# random-quote
-**Random Quote Generator**
+# Random Quote Generator
 
 This is a simple random quote generator implemented using HTML, CSS, and JavaScript. It displays a random quote and its author each time a button is clicked.
 
-**Technologies Used**
+## Technologies Used
 
 - HTML
 
@@ -13,13 +12,13 @@ This is a simple random quote generator implemented using HTML, CSS, and JavaScr
 
 ![image](https://github.com/mebenbenyo/random-quote/assets/117006580/ba2b7aa0-5dc7-4e6e-9897-102db10d27e5)
 
-**Setup Instructions**
+## Setup Instructions
 
 Clone the repository to your local machine or download the source code as a ZIP file.
 
 Open the project folder in your preferred code editor.
 
-**Implementation Details**
+## Implementation Details
 
 The quote generator is implemented using JavaScript. Here are the key steps involved:
 
@@ -36,6 +35,6 @@ The event listener calls a function that selects a random quote from the array o
 The selected quote and its author are then displayed on the webpage by updating the text content of HTML elements using the innerText property.
 
 
-**Conclusion**
+## Conclusion
 
 This simple random quote generator provides a basic example of using HTML, CSS, and JavaScript to display random quotes on a webpage. 
