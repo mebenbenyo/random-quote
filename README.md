@@ -1,4 +1,5 @@
-# Random Quote Generator
+# random-quote 
+## Random Quote Generator
 
 This is a simple random quote generator implemented using HTML, CSS, and JavaScript. It displays a random quote and its author each time a button is clicked.
 
